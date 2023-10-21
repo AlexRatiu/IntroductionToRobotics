@@ -7,3 +7,4 @@ In this assignment, I learned how to control an RGB LED using individual potenti
 ### Photo of setup
 ![Homework1](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/d2fee5b3-a9bc-4dae-8a0f-edc5e45f4381)
 ### Video link
+https://youtu.be/KW2QvoHkiAw?si=6Vn_bd52nwpRCb97
