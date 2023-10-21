@@ -3,6 +3,7 @@ Step into the exciting world of robotics through 3rd-year assignments at the Fac
 
 ## Homework1  
 ### Task Requirements
-### Photo ff setup
-### Video link
+In this assignment, I learned how to control an RGB LED using individual potentiometers with my Arduino. By the end of this task, I gained hands-on experience in interfacing potentiometers with my Arduino and using analog readings to control the RGB LED's colors.
+### Photo of setup
 
+### Video link
