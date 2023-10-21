@@ -3,4 +3,6 @@ Step into the exciting world of robotics through 3rd-year assignments at the Fac
 
 ## Homework1  
 ### Task Requirements
+### Photo ff setup
+### Video link
 
