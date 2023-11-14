@@ -26,7 +26,7 @@ In this project, I harnessed the power of a joystick to manipulate a segment's p
 ### Video link
 https://youtube.com/shorts/uz_S6XkfGR4?feature=share
 
-## Homework1  
+## Homework4
 
 ### Task Requirements
 In this project, I designed a stopwatch timer using a 4-digit 7-segment display and three buttons. The timer counts in 10ths of a second and includes a lap function similar to common phone stopwatches. This hands-on endeavor enhanced my skills in microcontroller-based timing systems, memory management, and user interface design. Dive into this practical exploration of Arduino's capabilities in creating an interactive and versatile stopwatch timer.
