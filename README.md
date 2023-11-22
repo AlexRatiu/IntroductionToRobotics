@@ -41,4 +41,4 @@ https://youtu.be/tuSVZIg6kEQ)https://youtu.be/tuSVZIg6kEQ
 In this assignment, I mastered the art of developing a "Smart Environment Monitor and Logger" with Arduino. Throughout the task, I honed my skills in integrating various sensors, managing EEPROM for data storage, and implementing a user-friendly Serial Menu. This project showcases my proficiency in sensor readings, memory management, and Serial Communication, contributing to the creation of an intelligent environmental monitoring solution. 🌐🛠️
 ![WhatsApp Image 2023-11-22 at 19 36 45](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/a80b209b-b82b-4def-9945-cb12eafa3ec4)
 ### Video link
-https://youtu.be/tuSVZIg6kEQ)https://youtu.be/tuSVZIg6kEQ
+https://youtu.be/mqkBDDplCmM?si=b2Xx88sGnKHMfoCQ
