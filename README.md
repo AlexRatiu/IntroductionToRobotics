@@ -26,10 +26,19 @@ In this project, I harnessed the power of a joystick to manipulate a segment's p
 ### Video link
 https://youtube.com/shorts/uz_S6XkfGR4?feature=share
 
+
 ## Homework4
 
 ### Task Requirements
 In this project, I designed a stopwatch timer using a 4-digit 7-segment display and three buttons. The timer counts in 10ths of a second and includes a lap function similar to common phone stopwatches. This hands-on endeavor enhanced my skills in microcontroller-based timing systems, memory management, and user interface design. Dive into this practical exploration of Arduino's capabilities in creating an interactive and versatile stopwatch timer.
 ![844b6c71-1b5a-48fe-892d-f093450382d4](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/29e2e7d3-1dad-45f3-8b46-e6535947c9f0)
+### Video link
+https://youtu.be/tuSVZIg6kEQ)https://youtu.be/tuSVZIg6kEQ
+
+## Homework5
+
+### Task Requirements
+In this assignment, I mastered the art of developing a "Smart Environment Monitor and Logger" with Arduino. Throughout the task, I honed my skills in integrating various sensors, managing EEPROM for data storage, and implementing a user-friendly Serial Menu. This project showcases my proficiency in sensor readings, memory management, and Serial Communication, contributing to the creation of an intelligent environmental monitoring solution. 🌐🛠️
+![WhatsApp Image 2023-11-22 at 19 36 45](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/a80b209b-b82b-4def-9945-cb12eafa3ec4)
 ### Video link
 https://youtu.be/tuSVZIg6kEQ)https://youtu.be/tuSVZIg6kEQ
