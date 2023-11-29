@@ -42,3 +42,12 @@ In this assignment, I mastered the art of developing a "Smart Environment Monito
 ![WhatsApp Image 2023-11-22 at 19 36 45](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/a80b209b-b82b-4def-9945-cb12eafa3ec4)
 ### Video link
 https://youtu.be/mqkBDDplCmM?si=b2Xx88sGnKHMfoCQ
+
+## Homework6
+
+### Task Requirements
+
+I am tasked with developing a small game on an 8x8 matrix. The game should feature a minimum of three types of elements: the player (blinking slowly), bombs/bullets (blinking fast), and walls (which don't blink). The goal is to provide a starting point for a matrix project. The basic idea involves generating walls on the map, covering 50% to 75% of the matrix, and then maneuvering the player to destroy them. The gameplay can follow a Bomberman style, terminator-tanks style, or any other creative approach. This project is designed to kickstart your exploration of matrix-based games.
+![WhatsApp Image 2023-11-29 at 21 41 41](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/2d1b7815-47b7-497d-9aaf-93cb76b2e913)
+### Video link
+https://youtu.be/N4T574Ji-oU?si=8PpcbJWXji-C4Pzh
