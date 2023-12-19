@@ -61,10 +61,10 @@ As a kid, I fondly remember playing the classic Snake game on my Nokia phone. Th
 This Arduino Snake game faithfully captures the essence of the original. The player controls a snake using a joystick, maneuvering through a grid to eat apples and grow longer. The challenge lies in avoiding collisions with the snake's own body. The game features an 8x8 LED matrix to display the snake, the apple, and the score. A buzzer adds a delightful touch with sound effects.
 
 ### Instructions
-Use the joystick to navigate the snake: push up, down, left, or right.
-1)Eat apples to increase your score and the length of the snake.
-2)Be cautious not to collide with the snake's body, as it will end the game.
-3)The game speed increases as your score grows, adding an extra layer of challenge.
+1)Use the joystick to navigate the snake: push up, down, left, or right. </br> 
+2)Eat apples to increase your score and the length of the snake. </br> 
+3)Be cautious not to collide with the snake's body, as it will end the game. </br> 
+4)The game speed increases as your score grows, adding an extra layer of challenge. </br> 
 
 ### Used Components
 Arduino Uno
