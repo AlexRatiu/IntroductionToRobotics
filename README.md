@@ -51,3 +51,32 @@ I am tasked with developing a small game on an 8x8 matrix. The game should featu
 ![WhatsApp Image 2023-11-29 at 21 41 41](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/2d1b7815-47b7-497d-9aaf-93cb76b2e913)
 ### Video link
 https://youtu.be/N4T574Ji-oU?si=8PpcbJWXji-C4Pzh
+
+
+##Snake Game for Arduino
+###Introduction
+As a kid, I fondly remember playing the classic Snake game on my Nokia phone. The simple yet addictive gameplay and the challenge of growing the snake without colliding with itself left a lasting impression. Inspired by those nostalgic moments, I decided to recreate the Snake game for Arduino using an 8x8 LED matrix, a joystick, a buzzer, and other components.
+
+###Game Description
+This Arduino Snake game faithfully captures the essence of the original. The player controls a snake using a joystick, maneuvering through a grid to eat apples and grow longer. The challenge lies in avoiding collisions with the snake's own body. The game features an 8x8 LED matrix to display the snake, the apple, and the score. A buzzer adds a delightful touch with sound effects.
+
+###Instructions
+Use the joystick to navigate the snake: push up, down, left, or right.
+1)Eat apples to increase your score and the length of the snake.
+2)Be cautious not to collide with the snake's body, as it will end the game.
+3)The game speed increases as your score grows, adding an extra layer of challenge.
+
+###Used Components
+Arduino Uno
+Breadboard
+8x8 LED Matrix
+Joystick
+Buzzer
+
+###Code Overview
+The Arduino code utilizes the LedControl library for interfacing with the LED matrix, along with a LiquidCrystal display for additional information. The game logic is implemented using structs for the snake and apple, and the joystick and button inputs are handled for player control. The code also incorporates EEPROM for saving and retrieving brightness and sound settings.
+
+### Video Link
+https://youtu.be/AJ90As1b4qo?si=A7aGfdrY79EJgg0w
+
+![WhatsApp Image 2023-12-19 at 08 22 18](https://github.com/AlexRatiu/IntroductionToRobotics/assets/117086170/f28b05b7-e2f4-4314-b92b-46a26f3a40d1)
