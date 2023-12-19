@@ -68,7 +68,7 @@ https://youtu.be/N4T574Ji-oU?si=8PpcbJWXji-C4Pzh
   In the end, my Arduino-based Snake game became not just a technological project, but a tangible manifestation of childhood memories and a testament to the enduring appeal of simple yet captivating gameplay. It stands as a tribute to the games that shaped my early years and a reminder of the power that nostalgia holds in inspiring creativity and innovation. </br>
 
 ### Game Description
-This Arduino Snake game faithfully captures the essence of the original. The player controls a snake using a joystick, maneuvering through a grid to eat apples and grow longer. The challenge lies in avoiding collisions with the snake's own body. The game features an 8x8 LED matrix to display the snake, the apple, and the score. A buzzer adds a delightful touch with sound effects.
+In this faithful recreation of the classic, the Arduino Snake game masterfully revives the timeless charm. With a joystick in hand, players expertly navigate a snake through a grid, savoring apples to extend its length while deftly avoiding collisions. The 8x8 LED matrix vividly displays the game elements, immersing players in a pixelated world of nostalgia. Meanwhile, a buzzer introduces delightful sound effects, creating a symphony of retro joy in this thoughtfully crafted and triple-layered experience that seamlessly blends the old and the new.
 
 ### Instructions
 1)Use the joystick to navigate the snake: push up, down, left, or right. </br> 
