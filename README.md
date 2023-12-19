@@ -55,7 +55,17 @@ https://youtu.be/N4T574Ji-oU?si=8PpcbJWXji-C4Pzh
 
 ## Snake Game for Arduino
 ### Introduction
-As a kid, I fondly remember playing the classic Snake game on my Nokia phone. The simple yet addictive gameplay and the challenge of growing the snake without colliding with itself left a lasting impression. Inspired by those nostalgic moments, I decided to recreate the Snake game for Arduino using an 8x8 LED matrix, a joystick, a buzzer, and other components.
+  As a child, I find myself reminiscing about the delightful days spent immersed in the captivating world of gaming. One particular memory that stands out in my mind is the joyous hours I spent playing the classic Snake game on my trusty Nokia phone. The sheer simplicity of the game, coupled with its irresistibly addictive gameplay, captivated my young imagination. </br>
+
+  The challenge of maneuvering the ever-growing snake across the screen, all while avoiding collisions with its own tail, presented a thrilling and engaging experience. These childhood memories have etched themselves into my consciousness, creating a sense of nostalgia that has persisted over the years. </br>
+
+  Fueled by the desire to pay homage to those cherished moments, I embarked on a creative journey to bring the essence of the Snake game to life in a new and exciting form. Drawing inspiration from the past, I decided to channel my enthusiasm into recreating the Snake game using an Arduino platform. Armed with an 8x8 LED matrix, a joystick, a buzzer, and an assortment of other components, I set out to craft a tangible and interactive homage to this iconic game. </br>
+
+  The process of translating the digital magic of Snake into a physical, Arduino-based incarnation was both challenging and rewarding. Each component played a crucial role in recreating the gameplay experience I held dear from my childhood. The 8x8 LED matrix served as the canvas upon which the snake would slither and grow, while the joystick provided a tactile and responsive means of control. The inclusion of a buzzer added an auditory dimension, enhancing the overall immersive experience. </br>
+
+  As I delved into the intricacies of coding and circuitry, I couldn't help but feel a sense of accomplishment with each successful step in the project. The nostalgia-driven motivation behind this endeavor fueled my determination to capture the essence of the classic Snake game while introducing a novel and hands-on element. </br>
+
+  In the end, my Arduino-based Snake game became not just a technological project, but a tangible manifestation of childhood memories and a testament to the enduring appeal of simple yet captivating gameplay. It stands as a tribute to the games that shaped my early years and a reminder of the power that nostalgia holds in inspiring creativity and innovation. </br>
 
 ### Game Description
 This Arduino Snake game faithfully captures the essence of the original. The player controls a snake using a joystick, maneuvering through a grid to eat apples and grow longer. The challenge lies in avoiding collisions with the snake's own body. The game features an 8x8 LED matrix to display the snake, the apple, and the score. A buzzer adds a delightful touch with sound effects.
@@ -67,11 +77,12 @@ This Arduino Snake game faithfully captures the essence of the original. The pla
 4)The game speed increases as your score grows, adding an extra layer of challenge. </br> 
 
 ### Used Components
-Arduino Uno
-Breadboard
-8x8 LED Matrix
-Joystick
-Buzzer
+Arduino Uno </br> 
+8x8 LED Matrix </br> 
+Joystick </br> 
+Buzzer </br> 
+Potetiometer </br>
+Breadboard </br> 
 
 ### Code Overview
 The Arduino code utilizes the LedControl library for interfacing with the LED matrix, along with a LiquidCrystal display for additional information. The game logic is implemented using structs for the snake and apple, and the joystick and button inputs are handled for player control. The code also incorporates EEPROM for saving and retrieving brightness and sound settings.
